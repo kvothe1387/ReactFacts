@@ -1,8 +1,8 @@
-import Main from './components/Main';
-import Navbar from './components/Navbar';
+import Main from "./components/Main"
+import Navbar from "./components/Navbar"
 
 export default function App() {
-  retun(
+  return (
     <>
       <Navbar />
       <Main />
