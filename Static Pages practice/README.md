@@ -1,8 +1,23 @@
-# React + Vite
+# React Facts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description 
+This is a simple React static page that I created to help me gain muscle memory & practice using React. It features nifty facts about the history of React.
 
-Currently, two official plugins are available:
+## Installation
+* npm install
+* npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sceenshot
+<img src="./src/images/screenshot.png" alt="Screenshot of the app" width="500">
+
+## Features
+React, Vite, Javascript, CSS
+
+## Credits
+* [Kvothe1387](https://github.com/kvothe1387)
+* https://www.linkedin.com/in/davidmc1387/
+
+
+## License
+* This project is licensed under the MIT license.
+* (https://opensource.org/licenses/MIT)
