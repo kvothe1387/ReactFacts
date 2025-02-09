@@ -8,7 +8,7 @@ This is a simple React static page that I created to help me gain muscle memory 
 * npm run dev
 
 ## Sceenshot
-<img src="./src/images/screenshot.png" alt="Screenshot of the app" width="500">
+<img src="Static Pages practice\src\images\screenshot.png" alt="Screenshot of the app" width="500">
 
 ## Features
 React, Vite, Javascript, CSS
